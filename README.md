@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **Jav
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out to me:
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ayush-pandey-b60609226/)
-- **Email**: your.email@example.com
 
 
 
-⭐️ From [Your Name](https://github.com/Ayp47098)
+
+⭐️ From [Ayush Pandey](https://github.com/Ayp47098)
