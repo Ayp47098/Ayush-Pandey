@@ -13,9 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **Jav
 
 
 
-## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayp47098&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayp47098&layout=compact&theme=radical)
 
